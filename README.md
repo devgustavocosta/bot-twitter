@@ -4,6 +4,10 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+## ❗️ Atenção ❗️
+
+Primeiro você deve definir suas keys no "twitter4j.properties" antes de utilizar o bot.
+
 ## 📄 Descrição 
 
 Bot que posta mensagens e fotos no Twitter. Faça o clone e teste!
